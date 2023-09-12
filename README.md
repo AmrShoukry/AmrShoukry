@@ -15,11 +15,19 @@
 🌍 Currently, I am participating in a 12-month ALX Software Engineering program, which covers various skills, including:
 
 C Programming
+
 Graphic Programming
+
 Unix Programming
+
 Data Structure & Algorithms
+
 Reverse Engineering & Security
+
 Python
+
 Front-end development
+
 Linux/command line
+
 Infrastructure Design & Management
